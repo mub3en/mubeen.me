@@ -26,8 +26,8 @@ git clone https://github.com/your-username/your-repository.git
 ## Folder Structure
 ```GraphQL
 The project folder is structured as follows:
-├── script/index.html         # The main HTML file that defines the structure of the webpage.
+├── index.html         # The main HTML file that defines the structure of the webpage.
 ├── css/style.css          # The CSS file that controls the visual appearance of the webpage.
-└── index.js           # The javascript file that adds cool transitions.
+└── script/index.js           # The javascript file that adds cool transitions.
 ```
 
